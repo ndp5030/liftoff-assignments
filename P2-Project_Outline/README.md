@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A job board available to Ukrainian's who are relocating and moving around who find themselves unemployed or needing to find another job.
+
 ### Features
-Include Features here
+-Ability to add, remove and search jobs with jobs displaying many details about the job 
+-Employer should need to make some sort of account to add job/create jobs 
+-each job should have catagories such as location, job field, prefered experiance, etc... 
+-Translate to ukrainian
+
 ### Technologies
-Include Technologies here
+-C# 
+-MVC 
+-MySQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+-If desired to be hosted website that is always up, will need to learn how to get it hosted 
+-connecting user info to class field
+-translating all views between 2 languages
+
 ### Project Tracker
-Link to your Trello board here
+Link to your Trello board here - https://trello.com/b/ygusT0Zc/job-board
